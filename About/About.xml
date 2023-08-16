@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Sacred WhiteFox [RUS]</name>
+	<author>TzverG</author>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>Bichang.WhiteFox</packageId>
+			<displayName>Sacred WhiteFox</displayName>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Bichang.WhiteFox</li>
+	</loadAfter>
+	<packageId>Bichang.WhiteFox.Ru</packageId>
+	<description>
+		Обычный перевод для личного пользования.
+
+		Оригинальное описание:
+		제작자의 취향이 첨가된 동물(여우) 하나를 추가합니다.
+
+		Перевод описания:
+		Добавлено одно животное (волшебная лиса).
+		
+		Дополнение описания:
+		Перевод  наименования данного животного вольно интерпретировано мной как "Чудолисичка". Добавляет в игру уникальное животное вдохновлённое непревзойдёнными трумбо. Лисички весьма умны, имеют возможность переносить вещи, в том числе и в караванах. С них можно остригать шерсть, а так-же они обладают уникальным мехом. Очень приветливы к вашим пешкам и будут часто ласкаться, имеют отдельную текстурку для режима сна. Они вам понравятся х)
+	</description>
+</ModMetaData>
